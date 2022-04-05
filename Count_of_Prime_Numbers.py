@@ -14,7 +14,7 @@ def prime_num(n):
 
 
 c = 0
-for i in prime_num(100000):
+for i in prime_num(100):
     c += 1
 
 print(c)
